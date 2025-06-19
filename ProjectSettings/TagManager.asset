@@ -8,16 +8,16 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Roomba
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Table
+  - Chair
+  - ChairBack
+  - TableEdge
+  - ChairBody
+  - Wall
+  - Lamp
   - 
   - 
   - 
@@ -47,11 +47,17 @@ TagManager:
   - name: Wall
     uniqueID: 862993639
     locked: 0
+  - name: Collectibles
+    uniqueID: 1338992785
+    locked: 0
   - name: Roomba
     uniqueID: 1483269421
     locked: 0
   - name: Furniture
     uniqueID: 93145365
+    locked: 0
+  - name: UI
+    uniqueID: 3826020247
     locked: 0
   m_RenderingLayers:
   - Default
